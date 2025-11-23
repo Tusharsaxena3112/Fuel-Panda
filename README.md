@@ -356,6 +356,7 @@ pnpm run dev
 - Real time location updates
 - UI enhancements with toast and better UX.
 - Bug fixes (Obviously)
+- Validations
 ---
 
 # ✅ Conclusion
